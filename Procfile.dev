@@ -1,0 +1,1 @@
+web: rerun -- RACK_ENV=development rackup -p 9293 config.ru
